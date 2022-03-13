@@ -1,11 +1,2 @@
-blah.blub#
-#blah.blub
-hello
-hello
-hello 
-hello 
-
-hello 
-
-hello 
+image: : harbor.example.com/nsp_redis-exporter:v1.9.0
 
