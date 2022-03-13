@@ -1,2 +1,2 @@
-image: : harbor.example.com/nsp_redis-exporter:37
+image: : harbor.example.com/nsp_redis-exporter:38
 
